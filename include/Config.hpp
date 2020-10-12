@@ -1,0 +1,6 @@
+namespace thegame {
+
+class Config
+
+
+}

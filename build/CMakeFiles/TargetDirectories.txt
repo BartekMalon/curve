@@ -1,0 +1,3 @@
+/home/bartek/Projects/curve/build/CMakeFiles/rebuild_cache.dir
+/home/bartek/Projects/curve/build/CMakeFiles/game.dir
+/home/bartek/Projects/curve/build/CMakeFiles/edit_cache.dir
